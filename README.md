@@ -6,7 +6,7 @@ A production-ready multi-agent AI system built on AWS Bedrock that orchestrates 
 
 This system implements a **supervisor-based orchestration pattern** where a central Supervisor Agent dynamically routes tasks to specialized worker agents based on the nature of the query. Each agent has access to specific tools and knowledge bases, enabling structured reasoning and collaborative problem-solving.
 
-![Multi-Agent System Architecture](architecture_diagram.png)
+![Multi-Agent System Architecture](architecture_diagram.jpg)
 
 ---
 
